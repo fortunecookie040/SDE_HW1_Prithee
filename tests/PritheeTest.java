@@ -17,5 +17,6 @@ public class PritheeTest {
 
     @Test
     public void playGame() {
+        //ngl i'm not too sure how to junit test this. i'm not familiar with junit testing or scanners.
     }
 }
