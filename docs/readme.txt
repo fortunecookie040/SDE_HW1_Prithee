@@ -32,8 +32,6 @@ let wrongCount = number of wrong guesses
 let hiddenWord = string of the chosen word
 let script = arraylist of each word and ",", ".", ";" in the sonnet
 
-Pseudocode
-
 Get random number for indexing
 While index of num is ",", ".",";"
     reroll the random number
