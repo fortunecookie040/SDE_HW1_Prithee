@@ -1,0 +1,21 @@
+import org.junit.Test;
+
+import java.util.Scanner;
+
+import static org.junit.Assert.*;
+
+public class PritheeTest {
+
+    @Test
+    public void newScript() {
+        Scanner sc = new Scanner(System.in);
+        Prithee game = new Prithee();
+        game.playGame(sc);
+        sc.close();
+
+    }
+
+    @Test
+    public void playGame() {
+    }
+}
